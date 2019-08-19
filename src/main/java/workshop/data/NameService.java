@@ -1,12 +1,12 @@
-package se.lexicon.exceptions.workshop.data_access;
+package workshop.data;
 
 import java.io.IOException;
 import java.util.List;
 import java.util.Random;
 
-import se.lexicon.exceptions.workshop.domain.Gender;
-import se.lexicon.exceptions.workshop.domain.Person;
-import se.lexicon.exceptions.workshop.fileIO.CSVReader_Writer;
+import workshop.domain.Gender;
+import workshop.domain.Person;
+import workshop2.CSVReader_Writer;
 
 public class NameService {
 	

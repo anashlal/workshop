@@ -1,4 +1,4 @@
-package se.lexicon.exceptions.workshop.domain;
+package workshop.domain;
 
 public class Person {
 	private String firstName;

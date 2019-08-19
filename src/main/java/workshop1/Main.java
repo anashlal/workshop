@@ -1,11 +1,11 @@
-package se.lexicon.exceptions.workshop;
+package workshop1;
 
 import java.io.IOException;
 import java.util.List;
 
-import se.lexicon.exceptions.workshop.data_access.NameService;
-import se.lexicon.exceptions.workshop.domain.Person;
-import se.lexicon.exceptions.workshop.fileIO.CSVReader_Writer;
+import workshop.data.NameService;
+import workshop.domain.Person;
+import workshop2.CSVReader_Writer;
 
 public class Main {
 

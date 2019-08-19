@@ -1,4 +1,4 @@
-package se.lexicon.exceptions.workshop.fileIO;
+package workshop2;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

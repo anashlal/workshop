@@ -1,4 +1,4 @@
-package se.lexicon.exceptions.workshop.domain;
+package workshop.domain;
 
 public enum Gender {
 	MALE,FEMALE;
